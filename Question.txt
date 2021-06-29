@@ -8,5 +8,4 @@ List-2: 2,21,3,8,7
 OUPTUT:
 List-3: 2,21,21,21,3,8,8,7,1,10,11,24,24
 
-
 Finally before leaving Davy jones tells salazar that the island name contains only the 26 lower case english alphabets and the special character '/' which could be considered as the 27th character. He wishes him luck and departs. Could you help salazar exact revenge?
